@@ -1,4 +1,4 @@
-This project implements a Document Management System with various data structures
+This project implements a Document Management System with various data structures.
 
 ## Data Structures
 - BTreeInpl.java - implementation of a BTree.
