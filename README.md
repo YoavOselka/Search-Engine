@@ -9,7 +9,7 @@ This project implements a Document Management System with various data structure
 ## Core Classes
 - Document.java: Interface defining a document.
 - DocumentImpl.java: Implementation of the `Document` interface.
-- DocumentStore.java: Interface for the document store.
+- DocumentStore.java: Interface defining the operations for managing documents.
 - DocumentStoreImpl.java: Implementation of the `DocumentStore` interface.
 - PersistenceManager.java: Interface for persistence management.
 - DocumentPersistenceManager.java: Implementation of the `PersistenceManager` interface.
