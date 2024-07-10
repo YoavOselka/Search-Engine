@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ac12567-d81e-41c4-a382-4e333b0ace9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/BTreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/BTreeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/TrieImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/impl/TrieImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage6/DocumentStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage6/DocumentStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage6/impl/DocumentImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage6/impl/DocumentImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage6/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage6/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage6/Stage6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage6/Stage6Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yu.edu/DS/stageDocs/doc1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yu.edu/DS/stageDocs/doc2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yu.edu/DS/stageDocs/doc4.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2i9it7ZFIuPEI9bGetoUkCbthY3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DocumentStoreImplTest.search.executor": "Debug",
+    "JUnit.DocumentStoreImplTest.searchByMetadata.executor": "Debug",
+    "JUnit.DocumentStoreImplTest.test1.executor": "Run",
+    "JUnit.Stage6Test.executor": "Run",
+    "JUnit.Stage6Test.stage6PushToDiskViaMaxDocCountBringBackInViaMetadataSearch.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.yu.cs.com1320.project.stage6.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DocumentStoreImplTest.test1">
+    <configuration name="DocumentStoreImplTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage6" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage6.DocumentStoreImplTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest.searchByMetadata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage6" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage6.DocumentStoreImplTest" />
+      <option name="METHOD_NAME" value="searchByMetadata" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage6" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage6.DocumentStoreImplTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage6" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage6.Stage6Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage6Test.stage6PushToDiskViaMaxDocCountBringBackInViaMetadataSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stage6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage6" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage6.Stage6Test" />
+      <option name="METHOD_NAME" value="stage6PushToDiskViaMaxDocCountBringBackInViaMetadataSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DocumentStoreImplTest.test1" />
+        <item itemvalue="JUnit.DocumentStoreImplTest.searchByMetadata" />
+        <item itemvalue="JUnit.DocumentStoreImplTest.search" />
+        <item itemvalue="JUnit.Stage6Test" />
+        <item itemvalue="JUnit.Stage6Test.stage6PushToDiskViaMaxDocCountBringBackInViaMetadataSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ac12567-d81e-41c4-a382-4e333b0ace9b" name="Changes" comment="" />
+      <created>1718909405657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718909405657</updated>
+      <workItem from="1718909406772" duration="11859000" />
+      <workItem from="1719317808239" duration="8408000" />
+      <workItem from="1720523414785" duration="88000" />
+      <workItem from="1720535521420" duration="20587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage6/Stage6Test.java</url>
+          <line>17</line>
+          <properties class="edu.yu.cs.com1320.project.stage6.DocumentStoreImplTest" method="test1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
